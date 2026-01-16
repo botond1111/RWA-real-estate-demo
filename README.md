@@ -8,7 +8,7 @@ Built with **Next.js**, **Hardhat**, and **Solidity**. Deployed on **Sepolia Tes
 
 ## 🔗 Live Links
 
--   🌐 **Live Demo (Vercel):** [rwa-real-estate-demo.vercel.app]
+-   🌐 **Live Demo (Vercel):** [rwa-real-estate-demo.vercel.app](https://rwa-real-estate-demo.vercel.app/)
 -   📜 **Real Estate Contract (Verified):** [View on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x9Fdf6a640f038288A10d3081452c2C582439626b)
 -   💰 **Payment Token (MockUSDC):** [View on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x1189C4C114a12EE300a0BE536857FADC984Be161)
 
